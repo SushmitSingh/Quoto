@@ -42,4 +42,5 @@ The Quoto app is a mobile application designed to provide users with quotes for 
 <img src="https://github.com/SushmitSingh/Quoto/blob/master/WhatsApp%20Image%202024-02-20%20at%2018.07.00%20(1).jpeg" alt="Image 3" width="300" height="600">
 <img src="https://github.com/SushmitSingh/Quoto/blob/master/WhatsApp%20Image%202024-02-20%20at%2018.07.00.jpeg" alt="Image 4" width="300" height="600">
 <img src="https://github.com/SushmitSingh/Quoto/blob/master/WhatsApp%20Image%202024-02-20%20at%2018.06.59.jpeg" alt="Image 5" width="300" height="600">
+<img src="https://github.com/SushmitSingh/Quoto/blob/master/WhatsApp%20Image%202024-02-20%20at%2018.48.57.jpeg" alt="Image 5" width="300" height="600">
 
