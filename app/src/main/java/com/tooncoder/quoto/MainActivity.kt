@@ -1,5 +1,6 @@
 package com.tooncoder.quoto
 
+import SignInSignUpScreen
 import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
@@ -14,7 +15,6 @@ import androidx.navigation.compose.composable
 import androidx.navigation.compose.rememberNavController
 import com.tooncoder.quoto.ui.theme.QuotoTheme
 import com.tooncoder.quoto.ui.theme.auth.OnboardingFlow
-import com.tooncoder.quoto.ui.theme.auth.SignInSignUpScreen
 import com.tooncoder.quoto.ui.theme.auth.onboardingItems
 import com.tooncoder.quoto.ui.theme.home.HomeScreen
 
