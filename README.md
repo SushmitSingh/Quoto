@@ -43,6 +43,3 @@ The Quoto app is a mobile application designed to provide users with quotes for 
 <img src="https://github.com/SushmitSingh/Quoto/blob/master/WhatsApp%20Image%202024-02-20%20at%2018.07.00.jpeg" alt="Image 4" width="300" height="600">
 <img src="https://github.com/SushmitSingh/Quoto/blob/master/WhatsApp%20Image%202024-02-20%20at%2018.06.59.jpeg" alt="Image 5" width="300" height="600">
 
-
-## Conclusion
-The Quoto app project demonstrates the use of Jetpack Compose and Material3 components to create a modern and user-friendly mobile application for browsing quotes. It showcases the integration of Firebase Authentication for user authentication and provides a seamless navigation experience for users.
